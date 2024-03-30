@@ -1,0 +1,22 @@
+[
+  {
+    "Author": "Forked From Infiziert90",
+    "Name": "Blackjack",
+    "Description": "Blackjack Plugin",
+    "InternalName": "Blackjack",
+    "AssemblyVersion": "0.0.0.7",
+    "TestingAssemblyVersion": "0.4.7.3",
+    "RepoUrl": "https://github.com/Infiziert90/DeathRoll",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 6,
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 0,
+    "LastUpdate": 0,
+    "LoadPriority": 69420,
+    "DownloadLinkInstall": "https://github.com/Deckerz/Plugins/releases/download/v0.0.0.9/latest.zip",
+    "DownloadLinkTesting": "https://github.com/Deckerz/Plugins/releases/download/v0.0.0.9/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Deckerz/Plugins/releases/download/v0.0.0.9/latest.zip",
+    "IconUrl": "https://raw.githubusercontent.com/Deckerz/Plugins/main/logo.png"
+  }
+]
